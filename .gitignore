@@ -1,0 +1,6 @@
+Default (Windows).sublime-keymap
+Default (OSX).sublime-keymap
+*.pyc
+GoSublime
+GoSublime*
+Package Control**
